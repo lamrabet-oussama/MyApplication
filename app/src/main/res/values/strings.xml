@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Simple Calculator</string>
+    <string name="add_id">Add</string>
+    <string name="sub_id">Subtract</string>
+    <string name="multiply_id">Multiply</string>
+    <string name="dev_id">Devide</string>
+    <string name="MC">MC</string>
+    <string name="Mr">MR</string>
+    <string name="MPlus">M+</string>
+    <string name="MMoins">M-</string>
+    <string name="MS">MS</string>
+
+
+</resources>
